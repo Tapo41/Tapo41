@@ -4,10 +4,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tapo41&label=Profile%20views&color=0e75b6&style=flat" alt="Tapo41" />
 </p>
-<a  align="center" href="https://github.com/Tapo41" target="_blank">
+<p  align="center">
+  <a href="https://github.com/Tapo41" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow Me on GitHub">
 </a>
-
+</p>
 ---
 
 ## 🚀 About Me:

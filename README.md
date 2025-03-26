@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tapo41&label=Profile%20450views&color=0e75b6&style=flat" alt="Tapo41" />
+  <img src="https://komarev.com/ghpvc/?username=Tapo41&label=Profile%20views&color=0e75b6&style=flat" alt="Tapo41" />
 </p>
 
 ---
@@ -75,9 +75,15 @@
 
 ---
 
-## 📌 Top Contributed Repositories:
-[![LLMOps Hands On](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=llmops&theme=radical)](https://github.com/Tapo41/llmops)
-[![Restaurant-Name-generator](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=Restaurant-Name-generator_Visualizer&theme=radical)](https://github.com/Tapo41/Restaurant-Name-generator)
+## 🚀 Top Contributed Repo
+
+📊 **GitHub Contributor Stats**
+
+| 🏆 Repository  | 🔥 Contribution Level |
+|--------------|--------------------|
+| [LLMOps Hands On](https://github.com/Tapo41/llmops) | ⭐ B |
+| [Restaurant-Name-generator](https://github.com/Tapo41/Restaurant-Name-generator) | 🔥 B |
+| [seamless-ui](https://github.com/Clueless-Community/seamless-ui) | 💡 B |
 ---
 
 💻 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House

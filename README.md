@@ -93,7 +93,7 @@
 
 ## 🚀 Random Dev Quote
 > *"I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript."*  
-> — Douglas Crockford
+>                                                                                  — Douglas Crockford
 
 ---
 

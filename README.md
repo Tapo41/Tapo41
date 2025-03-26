@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tapo41&label=Profile%20views&color=0e75b6&style=flat" alt="Tapo41" />
+  <img src="https://komarev.com/ghpvc/?username=Tapo41&label=Profile%20450views&color=0e75b6&style=flat" alt="Tapo41" />
 </p>
 
 ---
@@ -19,15 +19,21 @@
 ---
 
 ## 🌐 Connect With Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)  
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/)  
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)  
+<p align="center">
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://reddit.com/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="mailto:tapokar098@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://codepen.io/"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://dev.to/"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  <a href="https://linkedin.com/in/tapojita-kar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/tapojitakar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/Tapo41"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
 
 ---
 
@@ -55,7 +61,6 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tapo41&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tapo41&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tapo41&layout=compact&theme=radical)
 
 ---
@@ -71,10 +76,8 @@
 ---
 
 ## 📌 Top Contributed Repositories:
-[![LangChain-Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=LangChain-Tutorial&theme=radical)](https://github.com/Tapo41/LangChain-Tutorial)
-[![F1_Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=F1_Visualizer&theme=radical)](https://github.com/Tapo41/F1_Visualizer)
-[![Ecommerce_Django_API](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=Ecommerce_Django_API&theme=radical)](https://github.com/Tapo41/Ecommerce_Django_API)
-
+##
+::contentReference[oaicite:0]{index=0}
 ---
 
 💻 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House

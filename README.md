@@ -1,50 +1,84 @@
 <h1 align="center">Hi 👋, I'm Tapojita Kar</h1>
-<h3 align="center">A passionate Full Stack Developer and AI Enthusiast from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tapo41&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Tapo41&label=Profile%20views&color=0e75b6&style=flat" alt="Tapo41" />
 </p>
+
+---
 
 ## 🚀 About Me:
-- 🔭 I’m currently working on **Dev-HAS (Developer Hyper-Automation System)**
-- 🤖 Exploring **AI-driven medical solutions** and **code automation**  
-- ☁️ Looking to collaborate on **Cloud Computing and AI projects**  
-- 💡 Passionate about **Containerization, Scalability, and Performance Optimization**  
-- 📚 Currently learning **LLMs, LangChain, and OpenAI API**  
-- ⚡ Fun fact: The Apollo 11 guidance computer had only **64KB of memory**, which is less than the storage of a basic modern calculator!  
+- 🔭 I’m currently exploring AI, Cloud Computing, and Full Stack Development.
+- 🌱 I’m learning Cloud Computing and AI Model Optimization.
+- 💡 Looking for collaborations in **AI/ML, Cloud, and Automation**.
+- 💬 Ask me about **Python, Java, AI/ML, SQL, Django, Flask, React, LangChain, OpenCV, Selenium, Git, and more**.
+- 🎯 Interested in Open Source Contributions.
+- 📫 How to reach me: **Check my socials below!**
+- ⚡ Fun fact: The Apollo 11 guidance computer had only **64 KB of memory**, yet it successfully landed humans on the moon!
 
-## 🛠️ Tech Stack:
+---
+
+## 🌐 Connect With Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)  
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)  
+
+---
+
+## 🛠 Tech Stack:
+#### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### Web Development:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Backend & Cloud:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapo41&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tapo41&theme=radical" alt="GitHub Streak">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tapo41&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tapo41&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tapo41&layout=compact&theme=radical)
+
+---
 
 ## 🔥 LeetCode Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Tapo41?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats">
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tapo41?theme=dark&font=Raleway&ext=heatmap)
 
-## 🌐 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/tapojitakar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/tapojitakar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://github.com/Tapo41"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+---
+
+## 🏆 GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tapo41&theme=radical)
+
+---
+
+## 📌 Top Contributed Repositories:
+[![LangChain-Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=LangChain-Tutorial&theme=radical)](https://github.com/Tapo41/LangChain-Tutorial)
+[![F1_Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=F1_Visualizer&theme=radical)](https://github.com/Tapo41/F1_Visualizer)
+[![Ecommerce_Django_API](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=Ecommerce_Django_API&theme=radical)](https://github.com/Tapo41/Ecommerce_Django_API)
+
+---
+
+💻 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**

@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tapo41&label=Profile%20views&color=0e75b6&style=flat" alt="Tapo41" />
 </p>
+## 🔔 Follow Me on GitHub
+
+<a href="https://github.com/Tapo41" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow Me on GitHub">
+</a>
 
 ---
 
@@ -81,12 +86,14 @@
 
 | 🏆 Repository  | 🔥 Contribution Level |
 |--------------|--------------------|
-| [LLMOps Hands On](https://github.com/Tapo41/llmops) | ⭐ B |
-| [Restaurant-Name-generator](https://github.com/Tapo41/Restaurant-Name-generator) | 🔥 B |
+| [LLMOps Hands On](https://github.com/Tapo41/llmops) | ⭐ A |
+| [Restaurant-Name-generator](https://github.com/Tapo41/Restaurant-Name-generator) | 🔥 A |
 | [seamless-ui](https://github.com/Clueless-Community/seamless-ui) | 💡 B |
 ---
 
-💻 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
+## 🚀 Random Dev Quote
+> *"I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript."*  
+> — Douglas Crockford
 
 ---
 

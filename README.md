@@ -76,8 +76,8 @@
 ---
 
 ## 📌 Top Contributed Repositories:
-##
-::contentReference[oaicite:0]{index=0}
+[![LLMOps Hands On](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=llmops&theme=radical)](https://github.com/Tapo41/llmops)
+[![Restaurant-Name-generator](https://github-readme-stats.vercel.app/api/pin/?username=Tapo41&repo=Restaurant-Name-generator_Visualizer&theme=radical)](https://github.com/Tapo41/Restaurant-Name-generator)
 ---
 
 💻 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House

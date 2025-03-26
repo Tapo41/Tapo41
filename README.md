@@ -7,10 +7,9 @@
 <p  align="center">
     <a href="https://github.com/Tapo41" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow Me on GitHub">
-    [![Follow Me](https://img.shields.io/github/followers/Tapo41?label=Follow&style=social)](https://github.com/Tapo41)  
-
 </a>
 </p>
+[![Follow Me](https://img.shields.io/github/followers/Tapo41?label=Follow&style=social)](https://github.com/Tapo41)  
 ---
 
 ## 🚀 About Me:
